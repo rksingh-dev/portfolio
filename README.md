@@ -1,1 +1,1 @@
-https://rksingh-dev.github.io/portfolio/
+https://rksinghportfolio.vercel.app/
